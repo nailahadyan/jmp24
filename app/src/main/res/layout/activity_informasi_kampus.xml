@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".InformasiKampusActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Informasi Aplikasi"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="KampusKu adalah aplikasi mobile yang dirancang untuk memudahkan pengguna dalam mengelola informasi terkait mahasiswa di sebuah kampus. Aplikasi ini menyediakan fitur validasi login untuk keamanan akses, serta memungkinkan pengguna untuk melihat dan mengelola data mahasiswa. "
+        android:textSize="16sp"/>
+
+</LinearLayout>

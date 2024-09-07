@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JMP PRAKTEK</string>
+    <string name="label_username">Username</string>
+    <string name="username_hint">Enter username</string>
+    <string name="label_password">Password</string>
+    <string name="password_hint">Enter password</string>
+    <string name="label_email">Email</string>
+    <string name="email_hint">Enter email</string>
+    <string name="label_fullname">Full Name</string>
+    <string name="fullname_hint">Enter full name</string>
+    <string name="label_school">School</string>
+    <string name="school_hint">Enter school</string>
+    <string name="label_address">Address</string>
+    <string name="address_hint">Enter address</string>
+    <string name="button_save">Save</string>
+</resources>
